@@ -1,0 +1,1 @@
+ini adalah aplikasi inverntory sederhana menggunakan OOP PHP.
